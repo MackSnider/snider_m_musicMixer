@@ -1,0 +1,10 @@
+.hidden
+{
+	display: none;
+}
+
+.topRectangle, .bottomRectangle
+{
+	height: 5px;
+	background-color: #4272B8;
+}
