@@ -1,0 +1,16 @@
+Colours to be used Music Mixer Assignment
+
+Purple
+#DA0CF6
+
+Light Purple
+#D40BB3
+
+Hot Pink
+#EB0069
+
+Light Pink
+#D44E57
+
+Soft Orange
+#F6220C
